@@ -24,6 +24,6 @@ email or social media posts
 schema is the structure or blueprint of a database that defines how data is organized
 ## example
 student database might have the following schema
-## student id ## name ## age ## course
+## student id  name  age  course
  ##   101            val    20       ICT
 
